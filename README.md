@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *RuTIP Calculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**RuTIP** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Ruth Kolo**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
